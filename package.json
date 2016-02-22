@@ -1,0 +1,17 @@
+{
+  "name": "fs",
+  "version": "1.0.0",
+  "description": "Fake fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake",
+    "file",
+    "system",
+    "fs"
+  ],
+  "author": "Corentin Smith",
+  "license": "WTFPL"
+}
